@@ -11,7 +11,5 @@ Projelerinizde kullanabileceğiniz çekirdek katman.
 
 NOT: Gerekli kütüphaneler yüklü değilse hata alabilirsiniz.
 #
-# Veri Yönetimi ( data_access ):
-## Veri Yönetimi ( data_access ):
 ### Veri Yönetimi ( data_access ):
 Verilerinizi local bir veritabanında yönetmek istiyorsanız bu paketi kullanabilirsiniz.
