@@ -21,7 +21,7 @@ Bir fonsiyonun belli bir kalıpta sonuç dönmesini istiyorsanız kullanabilirsi
 
 Örnek olarak, "success, message" döndürebilirsiniz veya "success, message, data" döndürebilirsiniz.
 #
-### Veri Yönetimi ( data_access ):
+### Veri Yönetimi ( local_database ):
 Verilerinizi local bir veritabanında yönetmek istiyorsanız bu paketi kullanabilirsiniz.
 #
 ### Datetime İşlemleri ( datetime_operations ):
