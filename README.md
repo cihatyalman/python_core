@@ -11,12 +11,12 @@ Projelerinizde kullanabileceğiniz çekirdek katman.
 
 NOT: Gerekli kütüphaneler yüklü değilse hata alabilirsiniz.
 #
-### Decorator ( decorators):
+### Decorator ( decorators ):
 Bir fonksiyon işleve başlamadan önce, işlevi bittiğinde veya işlev sırasında bir hata aldığında başka bir işlev çalıştırmasını istiyorsanız kullanabilirsiniz.
 
 Örnek olarak, işlevden önce bir doğrulama yaptırabilirsiniz, işlevden sonra bir log kaydı yaptırabilirsiniz, hata aldığında işlevden başka bir veri dönüşü yaptırabilirsiniz.
 #
-### Result (results):
+### Result ( results ):
 Bir fonsiyonun belli bir kalıpta sonuç dönmesini istiyorsanız kullanabilirsiniz. 
 
 Örnek olarak, "success, message" döndürebilirsiniz veya "success, message, data" döndürebilirsiniz.
