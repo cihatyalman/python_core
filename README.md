@@ -30,4 +30,4 @@ Geçerli tarihi (gmt ayarlanabilir) timestamp olarak kullanabilirsiniz. Ayrıca 
 ### Json Dosya İşlemleri ( json_file_operations ):
 Json türünde olan verilerinizi bir dosyada tutmak isterseniz kullanabilirsiniz.
 #
-## NOT: Yakında tüm paketlerin kullanım örnekleri yayınlanacaktır.
+## UI klasöründe tüm paketlerin demoları bulunmaktadır.
