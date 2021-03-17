@@ -1,5 +1,5 @@
 # python_core
-Projelerinizde kullanabileceğiniz çekirdek katman.
+Projelerinizde kullanabileceğiniz çekirdek katman. Ayrıca UI klasöründe tüm paketlerin demoları bulunmaktadır.
 #
 ### Kullanılan kütüphaneler:
 - sqlite3
@@ -30,4 +30,3 @@ Geçerli tarihi (gmt ayarlanabilir) timestamp olarak kullanabilirsiniz. Ayrıca 
 ### Json Dosya İşlemleri ( json_file_operations ):
 Json türünde olan verilerinizi bir dosyada tutmak isterseniz kullanabilirsiniz.
 #
-## UI klasöründe tüm paketlerin demoları bulunmaktadır.
