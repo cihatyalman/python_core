@@ -11,7 +11,7 @@ Projelerinizde kullanabileceğiniz çekirdek katman. Ayrıca UI klasörünü ve 
 
 NOT: Gerekli kütüphaneler yüklü değilse hata alabilirsiniz.
 #
-### Decorator ( decorators ):
+### Decorator ( AOP ):
 Bir fonksiyon işleve başlamadan önce, işlevi bittiğinde veya işlev sırasında bir hata aldığında başka bir işlev çalıştırmasını istiyorsanız kullanabilirsiniz.
 
 Örnek olarak, işlevden önce bir doğrulama yaptırabilirsiniz, işlevden sonra bir log kaydı yaptırabilirsiniz, hata aldığında işlevden başka bir veri dönüşü yaptırabilirsiniz.
