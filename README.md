@@ -1,7 +1,5 @@
-# python_core
+# python_core [ Update: 09.04.2021 ]
 Projelerinizde kullanabileceğiniz çekirdek katman. Ayrıca UI klasörünü ve main.py dosyasını inceleyerek tüm paketlerin nasıl kullanıldığı ile ilgili demoları görebilirsiniz.
-
-[ Update: 09.04.2021 ]
 #
 ### Kullanılan kütüphaneler:
 - sqlite3
